@@ -2,5 +2,5 @@
 Group Members: 
 * Gala, Nicole Louise 
 * Gutierrez, Crystal Reine
-* Padilla, Jasmine Claire
+* Padilla, Jasmine Clare
 * Reyes, Adrian Philipp
