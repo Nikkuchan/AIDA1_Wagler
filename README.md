@@ -1,4 +1,4 @@
-# AIDA-Wagler
+# AIDA Machine Learning [Team Wagler]
 Group Members: 
 * Gala, Nicole Louise 
 * Gutierrez, Crystal Reine
